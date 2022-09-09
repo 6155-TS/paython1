@@ -1,2 +1,2 @@
-# paython1
+# python1
 faiz hesabı
